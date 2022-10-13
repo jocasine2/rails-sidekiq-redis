@@ -1,0 +1,6 @@
+sudo mkdir docker-compose
+sudo cp ../mercalista/mercalista-back-end/docker-compose/* ./docker-compose
+sudo cp ../mercalista/mercalista-back-end/start_development.sh .
+sudo cp ../mercalista/mercalista-back-end/start_development.sh .
+sudo cp ../mercalista/mercalista-app/docker-compose.yml .
+sudo cp ../mercalista/mercalista-app/.env .
